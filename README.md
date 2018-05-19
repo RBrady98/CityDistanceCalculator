@@ -11,3 +11,6 @@ https://github.com/lutangar/cities
 
 The JSON file for countries provided by 
 https://github.com/annexare/Countries
+
+Idea for the project from project mega list provided by
+https://github.com/karan/Projects
